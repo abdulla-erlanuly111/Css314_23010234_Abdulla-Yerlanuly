@@ -1,8 +1,8 @@
 # CUDA Lab 02: Advanced Geometries & Stencils
 
 **Student ID:** 230103234
-**Allocated GPU Node:** <Tesla T4>
-**CUDA Compute Capability:** <7.5>
+**Allocated GPU Node:** Tesla T4
+**CUDA Compute Capability:** 7.5
 **Official Verification Token:** 0EA77240CBC6F793EA66
 
 ## Task 1 Benchmark Results
